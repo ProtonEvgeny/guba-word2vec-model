@@ -1,0 +1,1 @@
+# guba-word2vec-model
